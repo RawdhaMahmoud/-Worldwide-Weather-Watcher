@@ -200,6 +200,6 @@ void loop() {
     sauvegarderDonnees();
   }
 
-  delay(50); rawdha 
+  delay(50); 
 }
 
